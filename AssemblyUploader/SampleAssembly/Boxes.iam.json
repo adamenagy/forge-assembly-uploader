@@ -1,0 +1,8 @@
+{
+  "urn": "urn:adsk.objects:os.object:{bucketName}/Boxes.iam",
+  "filename": "Boxes.iam",
+  "references": [{
+      "urn": "urn:adsk.objects:os.object:{bucketName}/Box.ipt",
+      "filename": "Box.ipt"
+  }]
+}

@@ -1,0 +1,20 @@
+﻿{
+  "input": {
+    "urn": "{urn}",
+    "checkReferences": true
+  },
+  "output": {
+    "destination": {
+      "region": "us"
+    },
+    "formats": [
+      {
+        "type": "svf",
+        "views": [
+          "2d",
+          "3d"
+        ]
+      }
+    ]
+  }
+}
